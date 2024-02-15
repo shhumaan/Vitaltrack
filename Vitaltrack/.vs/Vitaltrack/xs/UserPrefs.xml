@@ -1,19 +1,31 @@
-﻿<Properties StartupConfiguration="{09D42FB9-64D9-48C2-8BAE-14AF9EE827DA}|https" GitUserInfo="UsingGIT">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{09D42FB9-64D9-48C2-8BAE-14AF9EE827DA}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.VitalTrack PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="VitalTrack/Controllers/WeatherForecastController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VitalTrack/Models/DataExportSharingLogs.cs">
     <Files>
-      <File FileName="VitalTrack/Controllers/WeatherForecastController.cs" Line="21" Column="12" />
-      <File FileName="VitalTrack/Program.cs" Line="12" Column="40" />
+      <File FileName="VitalTrack/Controllers/WeatherForecastController.cs" />
+      <File FileName="VitalTrack/Program.cs" />
+      <File FileName="VitalTrack/Models/Users.cs" />
+      <File FileName="VitalTrack/Models/Roles.cs" />
+      <File FileName="VitalTrack/Models/HealthMetricsTable.cs" />
+      <File FileName="VitalTrack/Models/DeviceIntegrationTable.cs" />
+      <File FileName="VitalTrack/Models/Notifications.cs" />
+      <File FileName="VitalTrack/Models/AuditLogs.cs" />
+      <File FileName="VitalTrack/Models/CommunityTable.cs" />
+      <File FileName="VitalTrack/Models/DataExportSharingLogs.cs" Line="6" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Vitaltrack" expanded="True">
-            <Node name="VitalTrack" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="WeatherForecastController.cs" selected="True" />
+          <Node name="Vitaltrack">
+            <Node name="VitalTrack">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="DataExportSharingLogs.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -21,8 +33,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

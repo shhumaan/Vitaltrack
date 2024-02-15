@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anshuman/Projects/Vitaltrack/VitalTrack/VitalTrack.csproj": {}
+    "/Users/anshuman/Vitaltrack/Vitaltrack/Vitaltrack/Vitaltrack.csproj": {}
   },
   "projects": {
-    "/Users/anshuman/Projects/Vitaltrack/VitalTrack/VitalTrack.csproj": {
+    "/Users/anshuman/Vitaltrack/Vitaltrack/Vitaltrack/Vitaltrack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anshuman/Projects/Vitaltrack/VitalTrack/VitalTrack.csproj",
-        "projectName": "VitalTrack",
-        "projectPath": "/Users/anshuman/Projects/Vitaltrack/VitalTrack/VitalTrack.csproj",
+        "projectUniqueName": "/Users/anshuman/Vitaltrack/Vitaltrack/Vitaltrack/Vitaltrack.csproj",
+        "projectName": "Vitaltrack",
+        "projectPath": "/Users/anshuman/Vitaltrack/Vitaltrack/Vitaltrack/Vitaltrack.csproj",
         "packagesPath": "/Users/anshuman/.nuget/packages/",
-        "outputPath": "/Users/anshuman/Projects/Vitaltrack/VitalTrack/obj/",
+        "outputPath": "/Users/anshuman/Vitaltrack/Vitaltrack/Vitaltrack/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anshuman/.nuget/NuGet/NuGet.Config"
@@ -20,7 +20,7 @@
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.313/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
         }
       }
     }
