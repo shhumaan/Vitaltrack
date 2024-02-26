@@ -5,6 +5,7 @@ namespace VitalTrack.Models
 	{
 		public CommunityTable()
 		{
+
 		}
 	}
 }
